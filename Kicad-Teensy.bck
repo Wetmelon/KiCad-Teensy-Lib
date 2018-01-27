@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MK66FX1M0VLQ18-Teensy
+D Kinetis K66 Processor LQFN
+K Teensy
+$ENDCMP
+#
+$CMP MK66FX1M0VMD18-Teensy
+D Kinetis K66 Processor MAPBGA
+K Teensy
+$ENDCMP
+#
+#End Doc Library
